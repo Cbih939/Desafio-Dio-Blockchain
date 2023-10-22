@@ -50,4 +50,4 @@ contract PokeDIO is ERC721{
     }
 
 
-}P
+}
